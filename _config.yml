@@ -216,6 +216,10 @@ exclude:
   - rollup.config.js
   - "package*.json"
 
+
+include:
+  - C-Programming-Language
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
