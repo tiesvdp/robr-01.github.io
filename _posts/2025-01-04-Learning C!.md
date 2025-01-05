@@ -6,6 +6,8 @@ And to aid that process i have made this little subsite:
 
 <!-- [The C Programming Language]({{ site.baseurl }}/C-Programming-Language/book/index.html){:target="_blank"} -->
 
-[The C Programming Language](https://robr-01.github.io/C-Programming-Language/book/index.html){:target="_blank"}
+<!-- [The C Programming Language](https://robr-01.github.io/C-Programming-Language/book/index.html){:target="_blank"} -->
+
+[The C Programming Language](/C-Programming-Language/book/index.html){:target="_blank"}
 
 I know the styles don't quite match, i'll see if i can improve on that some day.
