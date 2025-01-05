@@ -4,6 +4,6 @@ Following that mentality i decided i would revisit the legendary book "The C Pro
 
 And to aid that process i have made this little subsite:
 
-[The C Programming Language]({% link /C-Programming-Language/book/index.html %}){:target="_blank"}
+[The C Programming Language]({% link C-Programming-Language/book/index.html %}){:target="_blank"}
 
 I know the styles don't quite match, i'll see if i can improve on that some day.
