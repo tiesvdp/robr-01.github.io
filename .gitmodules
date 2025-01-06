@@ -1,6 +1,3 @@
 [submodule "assets/lib"]
 	path = assets/lib
 	url = https://github.com/cotes2020/chirpy-static-assets.git
-[submodule "C-Programming-Language"]
-	path = C-Programming-Language
-	url = https://github.com/RoBr-01/C-Programming-Language.git
