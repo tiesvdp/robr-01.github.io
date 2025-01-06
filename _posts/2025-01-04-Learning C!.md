@@ -8,4 +8,4 @@ And to aid that process i have made this little subsite:
 
 <!-- [The C Programming Language](https://robr-01.github.io/C-Programming-Language/book/index.html){:target="_blank"} -->
 
-[The C Programming Language](/c-programming-language/book/index.html){:target="_blank"}
+<!-- [The C Programming Language](/c-programming-language/book/index.html){:target="_blank"} -->
