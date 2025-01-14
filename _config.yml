@@ -217,7 +217,7 @@ exclude:
   - "package*.json"
 
 include:
-  - C-Programming-Language
+  - "C-Programming-Language"
 
 jekyll-archives:
   enabled: [categories, tags]
