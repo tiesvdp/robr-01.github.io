@@ -2,6 +2,8 @@ Even though i already have a little bit of programming knowledge (through variou
 
 Following that mentality i decided i would revisit the legendary book "The C Programming Language" (2nd edition of course).
 
+This is a test!
+
 And to aid that process i have made this little subsite:
 
 <!-- [The C Programming Language]({{ site.baseurl }}/C-Programming-Language/book/index.html){:target="_blank"} -->
